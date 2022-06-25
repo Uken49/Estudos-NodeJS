@@ -1,29 +1,28 @@
-# Comandos no terminal importante para utilizar o NodeJS
+# Comandos no terminal importantes para utilizar o NodeJS
 
 <div>
-    <b>1 °: npm init<b> <br>
+    1 °: npm init
     
-    ex: npm init <br>
+    Ex: npm init
     
     Cria o package.json do seu projeto, contendo nome do projeto, versão, autor, dependências e outras informações
 </div>
 <div>
-    <b>2 °: npm install (nome do módulo)<b> <br>
+    2 °: npm install (nome do módulo)
 
-    ex: npm install express <i>ou</i> npm i express <br>
+    Ex: npm install express --ou-- npm i express
     
-    Comando com a funcionalidade de instalar um módulo/framework no projeto <br>
-    <hr>
-    <br>
-    <b>2.1 °: npm instal (nome do módulo) --save<b> <br>
+    Comando com a funcionalidade de instalar um módulo/framework no projeto
+    
+    2.1 °: npm instal (nome do módulo) --save
 
-    Salva o projeto nas dependências do package.json, que ao dar '<u>npm install<u>' (sem nome de módulo) instala todos os as depêndencias.
+    Salva o projeto nas dependências do package.json, que ao dar 'npm install' (sem nome de módulo) instala todos os as depêndencias.
 </div>
 
 <div>
-    <b>3 °: npm remove (nome do módulo)</b> <br>
+    3 °: npm remove (nome do módulo)
     
-    ex: npm remove express <i>ou<i> npm r express <br>
+    Ex: npm remove express --ou-- npm r express
     
     Comando com a funcionalidade de remover um módulo/framework no projeto
 </div>
